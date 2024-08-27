@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# User-specific files
+favorites.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+Thumbs.db
