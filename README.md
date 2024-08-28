@@ -41,5 +41,6 @@ https://github.com/user-attachments/assets/ad322c1e-b241-40a4-bdcb-c16d5eecb37b
 
 
 ## License
+ This project is licensed under MIT.
 
 
