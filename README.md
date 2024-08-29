@@ -14,7 +14,7 @@ and more.
    ```sh
    pip install anthropic python-dotenv streamlit
    ```
-3. For creating a virtual environment run the following command
+3. For creating a virtual environment run the following command.This ensures that the project runs with the exact versions of packages it requires.
    ```sh
    python -m venv venv
    source venv/bin/activate
