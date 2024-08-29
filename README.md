@@ -1,4 +1,6 @@
 # LoreCraft
+![Lore](https://github.com/user-attachments/assets/7af98697-d07e-4c13-be33-8b893c201dce)
+
 
 An AI poetry generator app that lets you craft poems based on simple text prompts using the Anthropic API.
 You can choose from different poem styles, select the number of lines as per your choice
