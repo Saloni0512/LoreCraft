@@ -8,6 +8,19 @@ and more.
  Channelise your inner Maya Angelou with LoreCraft!
 
 
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/ad322c1e-b241-40a4-bdcb-c16d5eecb37b
+
+
+
+
+
+
+
 ## Setup
 
 1. Clone this repository
@@ -32,12 +45,6 @@ and more.
    streamlit run app.py
    ```
 
-
-## Demo
-
-
-
-https://github.com/user-attachments/assets/ad322c1e-b241-40a4-bdcb-c16d5eecb37b
 
 
 
